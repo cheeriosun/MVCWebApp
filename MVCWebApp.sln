@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCWebApp", "MVCWebApp\MVCWebApp.csproj", "{F62273E1-A312-4B54-B296-78B39431D06E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCWebApp.Tests", "MVCWebApp.Tests\MVCWebApp.Tests.csproj", "{CADCB0F9-7DDE-4B07-B6EB-34F933ED460E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F62273E1-A312-4B54-B296-78B39431D06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62273E1-A312-4B54-B296-78B39431D06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62273E1-A312-4B54-B296-78B39431D06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62273E1-A312-4B54-B296-78B39431D06E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADCB0F9-7DDE-4B07-B6EB-34F933ED460E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADCB0F9-7DDE-4B07-B6EB-34F933ED460E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADCB0F9-7DDE-4B07-B6EB-34F933ED460E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADCB0F9-7DDE-4B07-B6EB-34F933ED460E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {310D70BB-83DA-49A3-9EA7-979C97CC83C1}
+	EndGlobalSection
+EndGlobal
